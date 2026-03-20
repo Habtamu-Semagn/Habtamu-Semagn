@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Habtamu Semagn 👋
 ### Full-Stack Developer | Final Year Computer Science Student
 **Building production-ready web and mobile ecosystems with a focus on scalable architecture.**
 
-• [LinkedIn](https://linkedin.com/in/yourusername) • [Upwork](https://upwork.com/freelancers/yourid)
+• [LinkedIn](https://linkedin.com/in/Habtamu-Semagn)
 
 ---
 
@@ -20,9 +20,10 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br />
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
