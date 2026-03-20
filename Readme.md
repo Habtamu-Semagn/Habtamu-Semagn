@@ -1,14 +1,14 @@
 <div align="center">
 
 # Hi, I'm Habtamu Semagn 👋
-### Full-Stack Developer | Final Year Computer Science Student
+### Full-Stack Developer | AI enthusiast
 **Building production-ready web and mobile ecosystems with a focus on scalable architecture.**
 
 • [LinkedIn](https://linkedin.com/in/Habtamu-Semagn)
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habtamu-Semagn&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 
